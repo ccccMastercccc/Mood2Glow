@@ -1,0 +1,10 @@
+# Downloaded Hugging Face model files
+multilingual-e5-small/
+
+# Generated embeddings
+embeddings.npy
+
+# Python environments and generated files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
